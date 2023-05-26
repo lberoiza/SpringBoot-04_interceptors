@@ -1,4 +1,4 @@
-package com.springboot.attention_time.app;
+package com.springboot.attention_time.app.controllers;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
